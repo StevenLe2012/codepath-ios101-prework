@@ -24,9 +24,24 @@ class ViewController: UIViewController {
                 return UIColor(red: red, green: green, blue: blue, alpha: 0.5)
             }
         
+        func changeBackground() -> UIImage?{
+            let urlString = "https://source.unsplash.com/random/600x600"
+            let url = URL(string: urlString)!
+            guard let data = try? Data(contentsOf: url) else {
+                return nil
+            }
+            
+            return UIImage(data: data)
+        }
+        
         let randomColor = changeColor()
+        let randomImage = changeBackground()
         view.backgroundColor = randomColor
+        changedImaged?.image = randomImage
+        
     }
+    
+    @IBOutlet weak var changedImaged: UIImageView!
     
 }
 
