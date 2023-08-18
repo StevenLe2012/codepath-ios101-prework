@@ -4,7 +4,7 @@ Submitted by: **Steven Le**
 
 **codepath-ios101-prework** is an app that changes the color of the background when clicking on a button.
 
-Time spent: **1.5** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -17,10 +17,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/PM3uJ5D.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with XCode Simulator Recorder and using i.imgur to upload the gif!
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -30,11 +30,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a lot of challenges understanding Swift and where all the buttons were located. In particular, the "Adjust Editor Options" was difficult for me to find. However, after looking up other YouTube videos for guides and working at it, I found the button and completed the tasks required. Swift Playground has some similar to Unity, which is something I'm similar with, so that was nice to see!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Steven Le]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
