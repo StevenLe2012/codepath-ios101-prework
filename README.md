@@ -32,10 +32,10 @@ GIF created with XCode Simulator Recorder and using i.imgur to upload the gif!
 
 I had a lot of challenges understanding Swift and implmementing my own features such as a randomize image. That took the longest time but was a lot of fun experimenting on my own! A pain point was understanding where all the buttons were located. In particular, the "Adjust Editor Options" was difficult for me to find. However, after looking up other YouTube videos for guides and working at it, I found the button and completed the tasks required. Swift Playground has some similar to Unity, which is something I'm similar with, so that was nice to see!
 
-##My Unique Twist:
+## My Unique Twist:
 - Adding in a randomized image when clicking on the button!
 
-##Some ideas to improve the app are:
+## Some ideas to improve the app are:
 - Improve the UI by using different fonts/colors/background
 - Implement a way to change the color of the text as well
 
